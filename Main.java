@@ -1,5 +1,4 @@
 public class Main{
-
    public static boolean dateIsBefore(int month1, int day1, int month2, int day2){
       String monthWord1=month(month1);
       String monthWord2=month(month2);
